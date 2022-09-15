@@ -57,8 +57,6 @@
   - [图片](#图片)
   - [设计工具](#设计工具)
   - [WEB 技术清单](#web-技术清单)
-  - [学习资源](#学习资源)
-- [推荐项目](#推荐项目)
 
 
 ## 文章与项目
@@ -78,8 +76,7 @@
 ### Vue3
 
 
-- [**推荐 10 个好用的 Vue3 的开源项目，开发效率又能提升了👍 **](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/57)
-- [**Vue3 的学习教程汇总、源码解释项目、支持的 UI 组件库、优质实战项目**](https://github.com/biaochenxuying/FrontEndGitHub/issues/18)
+- Vue3 的学习教程汇总、源码解释项目、支持的 UI 组件库、优质实战项目
 
 
 | 项目 | 地址 |
@@ -104,7 +101,7 @@
 ### Vue 源码解密
 
 
-- [**推荐 7 个 Vue2、Vue3 源码解密分析的开源项目 👍**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/35)
+- 推荐 7 个 Vue2、Vue3 源码解密分析的开源项目
 
 
 | 项目 | 地址 |
@@ -124,10 +121,6 @@
 ### React 源码解密
 
 
-- [**推荐 12 个好用的 React 的开源项目，开发效率又能提升了👍**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/58)
-- [**推荐一个 React 技术揭秘的项目，自顶向下的 React 源码分析**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/34)
-
-
 | 项目 | 地址 |
 | --- | --- |
 | just-react：严谨、易懂的 React 源码分析教程 | [https://github.com/BetaSu/just-react](https://github.com/BetaSu/just-react) |
@@ -136,8 +129,6 @@
 
 
 ### 面试专题
-
-- [**推荐这 10 个 GitHub 上超火的前端面试项目，打造自己的加薪宝库！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/6)
 
 
 | 项目 | 地址 |
@@ -159,8 +150,6 @@
 
 ### 简历专题
 
-- [**10 个 GitHub 上最火的程序员简历项目，2021 金三银四必备！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/15)
-
 
 | 项目 | 地址 |
 | --- | --- |
@@ -178,8 +167,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### JavaScript
-
-- [**12 个 GitHub 上超火的 JavaScript 奇技淫巧项目，找到写 JavaScript 的灵感！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/14)
 
 
 | 项目 | 地址 |
@@ -203,7 +190,7 @@
 
 ### Flutter
 
-- [**推荐 4 个基于 Flutter 的重磅高仿开源项目**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/25)
+- 推荐 4 个基于 Flutter 的重磅高仿开源项目
 
 | 网站 | 说明 |
 | --- | --- |
@@ -216,9 +203,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### TypeScript
-
-- [**推荐 7 个学习 TypeScript 的宝库，2021 是时候给自己加薪了！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/17)
-- [**JS 加强篇！推荐 10 个好用的 TypeScript 的开源项目 YYDS 👍 **](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/59)
 
 | 网站 | 说明 |
 | --- | --- |
@@ -234,9 +218,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### 前端必备在线工具
-
-- [**白嫖 11 个超火的前端必备在线工具，终于有时间上班摸鱼了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/9)
-- [**推荐 12 个学习前端必备的神仙级工具类项目与网站**](https://github.com/biaochenxuying/FrontEndGitHub/issues/16)
 
 
 | 项目 | 地址 |
@@ -269,9 +250,6 @@
 
 ### 计算机内功秘籍
 
-- [**推荐 7 个 Github 上近 200k Star 的计算机学习资源，练好前端内功的秘籍！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/20)
-- [**Ｂ站收藏 12.5w+！GitHub 标星 6.6k+！这门神课拯救了我薄弱的计算机基础**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/24)
-
 
 | 项目 | 地址 |
 | --- | --- |
@@ -300,8 +278,6 @@
 
 ### 管理后台 admin
 
-- [**10 个 GitHub 上超火和超好看的管理后台模版，后台管理项目有着落了单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/8)
-
 
 | 项目 | 地址 |
 | --- | --- |
@@ -320,8 +296,6 @@
 
 ### 逼格满满的 PPT
 
-- [**GitHub 标星 54K + 2K！这才是程序员写逼格满满的 PPT 的正确姿势！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/10)
-
 
 | 项目 | 地址 |
 | --- | --- |
@@ -331,8 +305,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### 数据结构与算法
-
-- [**7 个GitHub上最火的、最值得前端学习的数据结构与算法项目！没有之一**](https://github.com/biaochenxuying/FrontEndGitHub/issues/2)
 
 
 | 项目 | 地址 |
@@ -350,9 +322,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### CSS 学习专题
-
-- [**[10 个 GitHub 上超火的 CSS 技巧项目，找到写 CSS 的灵感！]**](https://github.com/biaochenxuying/FrontEndGitHub/issues/7)
-- [**[视觉盛宴篇！推荐 12 个好用的 CSS 的开源项目，YYDS 👍 ]**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/62)
 
 
 | 项目 | 地址 |
@@ -375,8 +344,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### Node.js
-
-- [**推荐 9 个 Node.js 学习、进阶、debugging 分析、实战 的重磅开源项目 👍**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/47)
 
 
 | 项目 | 地址 |
@@ -412,8 +379,6 @@
 
 ### 前端监控
 
-- [**推荐 GitHub 2K+ 星：前端监控工具 - webfunny 项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/41)
-
 | 网站 | 说明 |
 | --- | --- |
 | [前端监控工具 - webfunny 项目](https://github.com/a597873885/webfunny_monitor) | 一款轻量级前端异常监控和前端性能监控系统 |
@@ -426,8 +391,6 @@
 
 - [**更强大的开源接口文档管理工具**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/60)
 ### 前端的代码规范
-
-- [**恕我直言，这几个大厂的前端代码规范你可能还不会 - 能精进前端的代码规范**](https://github.com/biaochenxuying/FrontEndGitHub/issues/5)
 
 
 | 项目 | 地址 |
@@ -447,8 +410,6 @@
 
 ### 程序员必备仓库
 
-- [**推荐程序员必备的 10 大 GitHub 仓库，前端占了 7 个！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/21)
-
 
 | 项目 | 地址 |
 | --- | --- |
@@ -467,8 +428,6 @@
 
 
 ### 拓展程序员技术与视野的国外网站
-
-- [**涨姿势了！22 个拓展程序员技术与视野的国外网站！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/22)
 
 
 | 项目 | 地址 |
@@ -549,9 +508,6 @@
 
 ### 酷炫的极客界面
 
-- [**被惊艳到了！适用 Win、Mac、Linux，酷炫的极客界面 eDEX-UI**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/26)
-- [**程序员最想要的高逼格，都藏在这个开源项目里了！**](https://github.com/rocksdanister/lively)
-
 
 | 项目 | 地址 |
 | --- | --- |
@@ -604,8 +560,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### 开发思想
-
-- [**Github标星1.6W+，程序员不得不知的“潜规则”又火了，早知道就不会秃头了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/3)
 
 
 | 项目 | 地址 |
@@ -745,8 +699,6 @@
 
 ### 录屏工具
 
-- [推荐 GitHub 上很火的录屏工具，秒杀 33 种同行工具](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/31)
-
 
 | 项目 | 地址 |
 | --- | --- |
@@ -857,15 +809,6 @@
 | --- | --- |
 | developer-roadmap：开发人员路线图，循序渐进的指南和路径，以学习不同的工具或技术 | [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) |
 | developer-roadmap：中文地址 | [https://github.com/kamranahmedse/developer-roadmap/blob/master/translations/chinese](https://github.com/kamranahmedse/developer-roadmap/blob/master/translations/chinese) |
-
-
-[⬆️ 返回顶部](#目录)
-
-### 学习资源
-
-- [1. **160+ 本技术类常用精华电子书开源了，包括 前端、后端、数据结构与算法、计算机基础、设计模式、数据库等书籍**](https://github.com/biaochenxuying/awesome-books)
-- [2. 极客时间上的《TypeScript 开发实战》课程资源，包含课件、思维导图、课程源代码](https://github.com/biaochenxuying/blog/tree/master/typescript-in-action)
-- [3. 视频资料分享 - Vue、React、Node、MongoDB 全栈、打造商城系统、实战项目汇总](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)
 
 [⬆️ 返回顶部](#目录)
 
